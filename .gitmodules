@@ -1,0 +1,6 @@
+[submodule "udagram-project5-frontend"]
+	path = udagram-project5-frontend
+	url = https://github.com/Trinhnt3027/udagram-project5-frontend
+[submodule "udagram-project5-backend"]
+	path = udagram-project5-backend
+	url = https://github.com/Trinhnt3027/udagram-project5-backend
