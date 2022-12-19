@@ -16,3 +16,7 @@ URL: http://a55e942fe05a44c6db6ea3f9995f7140-1623065984.us-east-1.elb.amazonaws.
 
 ### TODO application backend
 - Lambda functions are automatically deployed using Travis CI
+
+# Note
+- Project contains 2 external projects: udagram-project5-backend and udagram-project5-frontend
+-> Clone all-in-one: git clone --recursive https://github.com/Trinhnt3027/udagram-project5
