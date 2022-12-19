@@ -10,9 +10,9 @@ URL: http://a55e942fe05a44c6db6ea3f9995f7140-1623065984.us-east-1.elb.amazonaws.
 
 ![TODO app](images/todo-app-web.JPG)
 
-Web frontend is developed using ReactJS based on the TODO app from project 4
-It is deployed using AWS EKS service
-CI/CD pileline is applied (Travis and Docker) for automatical deployment
+- Web frontend is developed using ReactJS based on the TODO app from project 4
+- It is deployed using AWS EKS service
+- CI/CD pileline is applied (Travis and Docker) for automatical deployment
 
 ### TODO application backend
-Lambda functions are automatically deployed using Travis CI
+- Lambda functions are automatically deployed using Travis CI
